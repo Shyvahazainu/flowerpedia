@@ -1,0 +1,40 @@
+.container{
+    margin-top: 50px;
+    width: 40%;
+    background-color: #534340;
+    color: #FCF9D9;
+    font-weight: bold;
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-right: 0px;
+}
+
+.container .dis{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.container .close{
+    margin-right: 20px;
+    color: #FCF9D9;
+}
+
+.container .container{
+    background-color: #BB9981;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.container .container .box{
+    background-color: #FCF9D9;
+    text-align: center;
+    margin-left: 9%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 80%;
+    color: #534340;
+    font-weight: normal;
+    border-radius: 10px;
+}

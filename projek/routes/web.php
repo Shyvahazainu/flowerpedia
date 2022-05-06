@@ -21,3 +21,15 @@ Route::get('/flowerpedia', function () {
     return view('nav');
 });
 
+Route::get('/search', function () {
+    return view('');
+});
+
+Route::get('/aboutus', function () {
+    return view('aboutus');
+});
+
+Route::get('/disclaimer', function () {
+    return view('disclaimer');
+});
+
