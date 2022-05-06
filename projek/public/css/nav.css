@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+    background-image: url("/img/background.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.nav-item {
+    background-color: transparent;
+    margin-top: 80px;
+}
+
+.nav-item .nav-link {
+    color: black;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+}
