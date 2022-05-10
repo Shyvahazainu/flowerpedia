@@ -1,5 +1,4 @@
 body {
-    background-color: pink;
     background-image: url("/img/background.png");
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -7,7 +6,7 @@ body {
 
 .nav-item {
     background-color: transparent;
-    margin-top: 80px;
+    margin-top: 68px;
 }
 
 .nav-item .nav-link {

@@ -1,4 +1,4 @@
-@extends('nav')
+@extends('template')
 @section('title', 'FlowerPedia')
 
 @section('konten')
@@ -12,7 +12,7 @@
 
 <div class="container">
     <a class="dis">Disclaimer</a>
-    <a class="close" href="/tes">X</a>
+    <a class="close" onclick="window.history.back();">X</a>
     
     <div class = "container">
         <div class="box"><p> All the contents are taken

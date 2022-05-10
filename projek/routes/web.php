@@ -17,12 +17,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/flowerpedia', function () {
-    return view('nav');
-});
-
 Route::get('/search', function () {
     return view('');
+});
+
+Route::get('/fotd', function () {
+    return view('fotd');
 });
 
 Route::get('/aboutus', function () {
@@ -32,4 +32,3 @@ Route::get('/aboutus', function () {
 Route::get('/disclaimer', function () {
     return view('disclaimer');
 });
-

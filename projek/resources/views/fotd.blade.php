@@ -11,11 +11,12 @@
 <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
 
 <div class="container">
-    <a class="dis">About Us</a>
+    <a class="dis">Flower Of The Day</a>
     <a class="close" onclick="window.history.back();">X</a>
     
     <div class = "container">
-        <div class="box"><p> FlowerPedia is a web-based application<br>that provides informations about flower,<br>dedicated for the one who loves flower.</p></div>
+        <div class="box"><p> All the contents are taken
+        from another website.</p></div>
     </div>
 </div>
 
