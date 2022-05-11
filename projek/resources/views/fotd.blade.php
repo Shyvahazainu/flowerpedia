@@ -2,11 +2,6 @@
 @section('title', 'FlowerPedia')
 
 @section('konten')
-<style>
-    p{
-        font-size : 24px;
-    }
-</style>
  <body>   
 <div class="wrapper">
 <section id="fotd">
@@ -15,13 +10,13 @@
              <div class="kolom">
                 <br><br><br>
                 <br>
-                <h2>Sunflower<h2>
+                <h2><strong>Sunflower</strong></h2>
                     <h1>Scientific name: Helianthus<br>
                     Order: Asterales<br>
                     Family: Asteraceae<br>
                     Kingdom: Plantae<br>
-                    Tribe: Heliantheae<h1>
-                        <p>Sunflower meanings include happiness, optimism, 
+                    Tribe: Heliantheae</h1>
+                        <p style="font-size : 20px; font-weight: lighter;">Sunflower meanings include happiness, optimism, 
                             honesty, longevity, peace, admiration, and devotion. 
                             The sunflower possibly surpasses all others in terms of its universal power to bring joy to people. 
                             With a round face and bright yellow petals resembling rays of sunshine, the sunflower has important 
