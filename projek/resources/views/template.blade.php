@@ -11,7 +11,7 @@
                 <br>
                 <h2> Hi, pretty soul!</h2>
                 <p>Are you a flower lover? let’s learn about flowers.</p>
-                <p><a href="/flowerpedia/fotd" class="tbl-pink">Flower of the Day</a></p>
+                <p><a href="/flowerpedia/matahari" class="tbl-pink">Flower of the Day</a></p>
             </div>
             <img src="\img\org.png" width="500"/>
         </section>

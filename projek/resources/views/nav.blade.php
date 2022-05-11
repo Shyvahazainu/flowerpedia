@@ -21,7 +21,7 @@
             <ul>
                 <li><a href="/flowerpedia">Home</a></li>
                 <li><a href="/flowerpedia#aboutus">About Us & Disclaimer</a></li>
-                <li><a href="/flowerpedia#list">List</a></li>
+                <li><a href="/flowerpedia/list">List</a></li>
                 <li><a href="">Search</a></li>
             </ul>
         </div>

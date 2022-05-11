@@ -13,26 +13,22 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/flowerpedia/list', function () {
+    return view('list');
 });
 
 Route::get('/flowerpedia', function () {
     return view('template');
 });
 
-Route::get('/flowerpedia/fotd', function () {
-    return view('fotd');
+Route::get('/flowerpedia/matahari', function () {
+    return view('matahari');
 });
 
-Route::get('/fotd', function () {
-    return view('fotd');
+Route::get('/flowerpedia/amaryllis', function () {
+    return view('amaryllis');
 });
 
-Route::get('/aboutus', function () {
-    return view('aboutus');
-});
-
-Route::get('/disclaimer', function () {
-    return view('disclaimer');
+Route::get('/flowerpedia/aster', function () {
+    return view('aster');
 });
