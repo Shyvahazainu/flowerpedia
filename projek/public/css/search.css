@@ -1,0 +1,22 @@
+* {box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.container{
+    background-color: #82A284;
+    width: 55%;
+    margin-top:12%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container .btn{
+    background-color: #557B83;
+    color: beige;
+    margin-left: 10px;
+    border: none;
+}
