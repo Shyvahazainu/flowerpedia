@@ -17,6 +17,10 @@ Route::get('/flowerpedia/list', function () {
     return view('list');
 });
 
+Route::get('/', function () {
+    return view('template');
+});
+
 Route::get('/flowerpedia', function () {
     return view('template');
 });
