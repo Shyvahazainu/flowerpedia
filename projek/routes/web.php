@@ -18,11 +18,11 @@ Route::get('/', function () {
 });
 
 Route::get('/flowerpedia', function () {
-    return view('nav');
+    return view('template');
 });
 
-Route::get('/search', function () {
-    return view('');
+Route::get('/flowerpedia/fotd', function () {
+    return view('fotd');
 });
 
 Route::get('/aboutus', function () {
