@@ -1,5 +1,9 @@
+<<<<<<< HEAD:projek/public/css/nav.css
 /* body {
     background-color: #ebe0d0;
+=======
+body {
+>>>>>>> main:projek/public/css/template.css
     background-image: url("/img/background.png");
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -7,13 +11,14 @@
 
 .nav-item {
     background-color: transparent;
-    margin-top: 80px;
+    margin-top: 68px;
 }
 
 .nav-item .nav-link {
     color: black;
     font-family: Roboto, sans-serif;
     font-weight: bold;
+<<<<<<< HEAD:projek/public/css/nav.css
 } */
 
 * {
@@ -234,3 +239,6 @@ h3 {
         width: 50%;
     }
 }
+=======
+}
+>>>>>>> main:projek/public/css/template.css

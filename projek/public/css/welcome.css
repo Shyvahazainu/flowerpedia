@@ -1,0 +1,28 @@
+.container{
+    font-family: 'Lexend Deca', sans-serif;
+    color: #39531E;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.container .txt1{
+    margin-right: 70px;
+}
+
+.pic{
+    margin-left: 70%;
+}
+
+#afotd{
+    margin-top: 40%;
+}
+
+#FOTD{
+    background-color: #534340;
+    border: none;
+    color: beige;
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+}

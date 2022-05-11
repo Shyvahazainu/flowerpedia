@@ -17,11 +17,20 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+<<<<<<< HEAD
 Route::get('/flowerpedia', function () {
     return view('template');
 });
 
 Route::get('/flowerpedia/fotd', function () {
+    return view('fotd');
+=======
+Route::get('/search', function () {
+    return view('');
+>>>>>>> main
+});
+
+Route::get('/fotd', function () {
     return view('fotd');
 });
 
@@ -32,4 +41,3 @@ Route::get('/aboutus', function () {
 Route::get('/disclaimer', function () {
     return view('disclaimer');
 });
-
