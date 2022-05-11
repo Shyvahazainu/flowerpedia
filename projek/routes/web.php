@@ -13,7 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-<<<<<<< HEAD
 Route::get('/flowerpedia/list', function () {
     return view('list');
 });
@@ -28,14 +27,6 @@ Route::get('/flowerpedia/matahari', function () {
 
 Route::get('/flowerpedia/amaryllis', function () {
     return view('amaryllis');
-=======
-Route::get('/', function () {
-    return view('template');
-});
-
-Route::get('/fotd', function () {
-    return view('fotd');
->>>>>>> main
 });
 
 Route::get('/flowerpedia/aster', function () {
