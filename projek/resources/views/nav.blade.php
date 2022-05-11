@@ -19,9 +19,9 @@
             <div class="logo"><a href=''>flowerpedia</a></div>
             <div class="menu">
             <ul>
-                <li><a href="/flowerpedia">Home</a></li>
-                <li><a href="/flowerpedia#aboutus">About Us & Disclaimer</a></li>
-                <li><a href="/flowerpedia#list">List</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="#aboutus">About Us & Disclaimer</a></li>
+                <li><a href="#list">List</a></li>
                 <li><a href="">Search</a></li>
             </ul>
         </div>

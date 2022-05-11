@@ -14,15 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/flowerpedia', function () {
     return view('template');
-});
-
-Route::get('/flowerpedia/fotd', function () {
-    return view('fotd');
 });
 
 Route::get('/fotd', function () {
