@@ -28,3 +28,7 @@ Route::get('/aboutus', function () {
 Route::get('/disclaimer', function () {
     return view('disclaimer');
 });
+
+Route::get('/search', function () {
+    return view('search');
+});
