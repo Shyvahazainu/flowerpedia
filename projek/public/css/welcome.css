@@ -1,24 +1,24 @@
-.container{
-    font-family: 'Lexend Deca', sans-serif;
-    color: #39531E;
+.container {
+    font-family: "Lexend Deca", sans-serif;
+    color: #39531e;
     font-weight: bold;
     margin-left: 40px;
     margin-top: 40px;
 }
 
-.container .txt1{
+.container .txt1 {
     margin-right: 70px;
 }
 
-.pic{
+.pic {
     margin-left: 70%;
 }
 
-#afotd{
+#afotd {
     margin-top: 40%;
 }
 
-#FOTD{
+#FOTD {
     background-color: #534340;
     border: none;
     color: beige;
